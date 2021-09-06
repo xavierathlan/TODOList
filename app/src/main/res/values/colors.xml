@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_green">#1AB51C</color>
+    <color name="secondary_green">#097509</color>
+    <color name="main_purple">#705AED</color>
+    <color name="secondary_purple">#3D22D6</color>
+    <color name="main_orange">#F68F40</color>
+    <color name="secondary_orange">#BF6D2D</color>
+    <color name="te_orange">#FCF2EB</color>
+    <color name="border">#616161</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

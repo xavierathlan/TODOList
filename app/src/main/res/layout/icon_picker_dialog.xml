@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="400dp"
+    >
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonOne"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_alarm"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="80dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonTwo"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_balance"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="278dp"
+        tools:layout_editor_absoluteY="80dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonThree"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_box"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonFour"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_tree"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="214dp"
+        tools:layout_editor_absoluteY="80dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonFive"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_air"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="342dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonSix"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_units"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="80dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonSeven"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_suite"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonEight"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_airplay"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonNine"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_inclusive"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="80dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonTen"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_anchor"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="278dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonEleven"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_architecture"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="342dp"
+        tools:layout_editor_absoluteY="80dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonTwelve"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_downward"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="144dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonThirteen"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:icon="@drawable/ic_photo"
+        app:iconGravity="textStart"
+        app:iconPadding="0dp"
+        app:strokeColor="@color/black"
+        app:strokeWidth="0dp"
+        tools:layout_editor_absoluteX="214dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <Button
+        android:id="@+id/confirm"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/main_orange"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:text="Confirmar"
+        app:cornerRadius="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.constraintlayout.helper.widget.Flow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:constraint_referenced_ids=",buttonSeven,buttonThree,buttonEight,buttonThirteen,buttonTen,buttonFive,buttonSix,buttonNine,buttonOne,buttonFour,buttonTwo,buttonEleven,buttonTwelve"
+        app:flow_horizontalGap="16dp"
+        app:flow_verticalGap="16dp"
+        app:flow_wrapMode="aligned"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

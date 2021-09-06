@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyTODOList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="application_logo">Application logo</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="create_task_button">Criar tarefa</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="label_title">Titulo</string>
+    <string name="label_description">Descrição</string>
+    <string name="content_desc_task_title">Titulo da tarefa</string>
+    <string name="content_desc_task_description">Descrição da tarefa</string>
+    <string name="color_picker">Color picker</string>
+    <string name="label_color_picker">Selecione a cor da tarefa</string>
+    <string name="label_date_picker">Selecione um data</string>
+    <string name="label_time_picker">Selecione uma hora</string>
+    <string name="icon_picker">Selecione um icone para sua tarefa</string>
+    <string name="set_done">Marcar como feito</string>
+    <string name="set_undone">Desmarcar como feito</string>
+    <string name="label_ask_save">Você fez alterações na tarefa, deseja salva-las?</string>
+    <string name="label_delete_save">Você realmente deseja apagar esta tarefa?</string>
+</resources>
